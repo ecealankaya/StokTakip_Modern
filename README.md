@@ -45,31 +45,28 @@ Proje veritabanı işlemleri için SQL bağlantısı kullanmaktadır.
 Veritabanı bağlantı ayarlarının proje ortamına göre düzenlenmesi gerekebilir.
 
 Proje Yapısı
-StokTakip_Modern/
-│
-├── Formlar/
-│   ├── frmAnaForm.cs
-│   ├── frmDashboard.cs
-│   ├── frmDepoTanimlari.cs
-│   ├── frmKategoriIslemleri.cs
-│   ├── frmKullaniciVeYetki.cs
-│   ├── frmLogin.cs
-│   ├── frmMarkaIslemleri.cs
-│   ├── frmRafTanimlari.cs
-│   ├── frmSevkiyatYonetimi.cs
-│   ├── frmStokHareketleri.cs
-│   ├── frmStokOperasyonlari.cs
-│   ├── frmTedarikci.cs
-│   └── frmUrunIslemleri.cs
-│
-├── Properties/
+StokTakip_Modern/ │ 
+├── Formlar/ 
+│ ├── frmAnaForm.cs
+│ ├── frmDashboard.cs
+│ ├── frmDepoTanimlari.cs
+│ ├── frmKategoriIslemleri.cs
+│ ├── frmKullaniciVeYetki.cs
+│ ├── frmLogin.cs 
+│ ├── frmMarkaIslemleri.cs
+│ ├── frmRafTanimlari.cs
+│ ├── frmSevkiyatYonetimi.cs
+│ ├── frmStokHareketleri.cs
+│ ├── frmStokOperasyonlari.cs
+│ ├── frmTedarikci.cs
+│ └── frmUrunIslemleri.cs 
+│ ├── Properties/
 ├── Resources/
-├── Sınıflar/
-│   └── SqlBaglantisi.cs
-│
-├── Program.cs
+├── Sınıflar/ 
+│ └── SqlBaglantisi.cs
+│ ├── Program.cs
 ├── App.config
 ├── StokTakip_Modern.csproj
 ├── StokTakip_Modern.sln
+├── packages.config
 └── README.md
-
